@@ -19,17 +19,15 @@ There are certain prerequirements that needs to be fulfilled. These are as follo
  Co Kriging: 
  * In COK, the estimated variable h at any location (o) is a linear combination of input variables. 
  * In this project, two variables of interest are there: high spatial and high spectral resolution variable represented as h and l    respectively. 
- * The estimation of h (target variable) at location (o) using COK is given as follow (Memarsadeghi, Moigne, & Mount, 2006):
- 
+ * The estimation of h (target variable) at location (o) using COK is given as follow (Memarsadeghi, Moigne, & Mount, 2006):<br/>
  ![](https://github.com/82siha1mpg/GeoStatisticalImageFusion/blob/master/Images/COK.png)
  
- Cokriging is carried in following three main steps:
-    * Describe the spatial variation in the sample data.
-    * Summarize the spatial variation by a mathematical function.
-    * Use this model to determine the interpolation weights.
-
+ Cokriging is carried in following three main steps:<br/>
+    1. Describe the spatial variation in the sample data.<br/>
+    2. Summarize the spatial variation by a mathematical function.<br/>
+    3. Use this model to determine the interpolation weights.<br/>
   Regression Kriging
-  RK is carried out in various steps which are described as follows:
+  RK is carried out in various steps which are described as follows:<br/>
     * Regression of primary variable on auxiliary variable.
     * Describe spatial variation in regression residuals.
     * Generating an error surface by interpolating regression residuals.
