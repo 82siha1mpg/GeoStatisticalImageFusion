@@ -1,7 +1,7 @@
 # GeoStatistical Image Fusion
-* _ Image Fusion is the method for enhancing information content in the images.
-* _ Using Image Fusion spectral quality of high spatial resolution images can be improved.
-* _ Geostatistical techniques i.e. Cokriging and Regression Kriging have been used in this project to fuse images.
+* Image Fusion is the method for enhancing information content in the images.
+* Using Image Fusion spectral quality of high spatial resolution images can be improved.
+* Geostatistical techniques i.e. Cokriging and Regression Kriging have been used in this project to fuse images.
 
 # Prerequisites
 There are certain prerequirements that needs to be fulfilled. These are as follows: 
