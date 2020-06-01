@@ -20,6 +20,7 @@ There are certain prerequirements that needs to be fulfilled. These are as follo
  * In COK, the estimated variable h at any location (o) is a linear combination of input variables. 
  * In this project, two variables of interest are there: high spatial and high spectral resolution variable represented as h and l    respectively. 
  * The estimation of h (target variable) at location (o) using COK is given as follow (Memarsadeghi, Moigne, & Mount, 2006):
+ ![](https://github.com/82siha1mpg/GeoStatisticalImageFusion/blob/master/Images/COK.png)
 
 # Authors
 * Harpreet Singh, harpreet19897079@gmail.com 
