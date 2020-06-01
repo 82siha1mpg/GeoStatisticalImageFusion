@@ -15,6 +15,12 @@ There are certain prerequirements that needs to be fulfilled. These are as follo
 1. **R:** It is a programming laguage for statistics and graphics. It can be downloaded for free from [here](https://cran.r-project.org/)!
 2. **GSTAT:** It is a package for R that can be used for "Spatial and Spatio-Temporal Geostatistical Modelling, Prediction and Simulation", and it can be downloaded either using "install.packages("gstat") command in R or directly from [here](https://cran.r-project.org/web/packages/gstat/index.html)!
 
+# Methods 
+ Co Kriging: 
+ * In COK, the estimated variable h at any location (o) is a linear combination of input variables. 
+ * In this project, two variables of interest are there: high spatial and high spectral resolution variable represented as h and l    respectively. 
+ * The estimation of h (target variable) at location (o) using COK is given as follow (Memarsadeghi, Moigne, & Mount, 2006):
+
 # Authors
 * Harpreet Singh, harpreet19897079@gmail.com 
 * Mr. Prabhakar Alok Verma, 
