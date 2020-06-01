@@ -14,7 +14,7 @@ library(rgdal)
 
 #Set Working Directory
 #setwd('path to working directory')
-setwd("C:\\Users\\Standard-User\\Desktop\\Practice")
+setwd("Path to Worrking directory")
 
 
 image_quality <- function(orgBand , fusedBand){
