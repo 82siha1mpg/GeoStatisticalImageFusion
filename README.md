@@ -26,14 +26,13 @@ There are certain prerequirements that needs to be fulfilled. These are as follo
     1. Describe the spatial variation in the sample data.<br/>
     2. Summarize the spatial variation by a mathematical function.<br/>
     3. Use this model to determine the interpolation weights.<br/>
-  Regression Kriging
-  RK is carried out in various steps which are described as follows:<br/>
-    * Regression of primary variable on auxiliary variable.
-    * Describe spatial variation in regression residuals.
-    * Generating an error surface by interpolating regression residuals.
-    * Adding trend surface and error surface to generate  final predictions.
+ Regression Kriging
+ RK is carried out in various steps which are described as follows:<br/>
+  *. Regression of primary variable on auxiliary variable. <br/>
+  *. Describe spatial variation in regression residuals. <br/>
+  *. Generating an error surface by interpolating regression residuals. <br/>
+  *. Adding trend surface and error surface to generate  final predictions.<br/>
   The estimated value of target variable at unsampled location using RK is given by (Hengl, Heuvelink, & Rossiter, 2007):
- 
    ![](https://github.com/82siha1mpg/GeoStatisticalImageFusion/blob/master/Images/RK.png)
 
 # Authors
