@@ -36,7 +36,7 @@ There are certain prerequirements that needs to be fulfilled. These are as follo
   The estimated value of target variable at unsampled location using RK is given by (Hengl, Heuvelink, & Rossiter, 2007):
    ![](https://github.com/82siha1mpg/GeoStatisticalImageFusion/blob/master/Images/RK.png)
 
-** To check these methods in more detail, please read the paper that I have published [here](https://doi.org/10.1007/s41324-018-00235-z)!**
+**To check these methods in more detail, please read the paper that I have published [here](https://doi.org/10.1007/s41324-018-00235-z)!**
 
 # Authors
 * Harpreet Singh, harpreet19897079@gmail.com 
