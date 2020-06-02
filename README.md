@@ -40,5 +40,5 @@ There are certain prerequirements that needs to be fulfilled. These are as follo
 
 # Authors
 * Harpreet Singh, harpreet19897079@gmail.com 
-* Mr. Prabhakar Alok Verma, 
+* Mr. Prabhakar Alok Verma
 
